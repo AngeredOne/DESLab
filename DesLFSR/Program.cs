@@ -45,8 +45,8 @@ namespace DesLFSR
             var encryptor = new Shit(128, 16);
 
             var encrypted = encryptor.Encrypt(inputText);
-            // Console.WriteLine("Зашифрованный текст --->>>");
-            // Console.WriteLine(encrypted);
+            Console.WriteLine("Зашифрованный текст --->>>");
+            Console.WriteLine(encrypted);
 
             var decrypted = encryptor.Decode(encrypted);
             Console.WriteLine("Расшифрованный текст --->>>");
