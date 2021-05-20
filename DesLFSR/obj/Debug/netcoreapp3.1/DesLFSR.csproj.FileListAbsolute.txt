@@ -1,0 +1,15 @@
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.csprojAssemblyReference.cache
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.AssemblyInfoInputs.cache
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.AssemblyInfo.cs
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.csproj.CoreCompileInputs.cache
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/DesLFSR
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/DesLFSR.deps.json
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/DesLFSR.runtimeconfig.json
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/DesLFSR.runtimeconfig.dev.json
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/DesLFSR.dll
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/DesLFSR.pdb
+/home/nex/RiderProjects/DesLFSR/DesLFSR/bin/Debug/netcoreapp3.1/CommandLine.dll
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.csproj.CopyComplete
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.dll
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.pdb
+/home/nex/RiderProjects/DesLFSR/DesLFSR/obj/Debug/netcoreapp3.1/DesLFSR.genruntimeconfig.cache

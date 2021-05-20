@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNNEqk9l+1K9pxCCDTsXtBQJm0EZx2OMfxUqlhINDl7T59YR250AT5ihU2tRilMJOpqM2yCtKlnj0SsKcsJ9cw==",
+  "success": true,
+  "projectFilePath": "/home/nex/RiderProjects/DesLFSR/DesLFSR/DesLFSR.csproj",
+  "expectedPackageFiles": [
+    "/home/nex/.nuget/packages/commandlineparser/2.9.0-preview1/commandlineparser.2.9.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
